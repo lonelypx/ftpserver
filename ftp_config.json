@@ -1,13 +1,13 @@
 [
     {
-        "username": "anil",
-        "password": "HLZ8RVFu",
+        "username": "user1",
+        "password": "XFc3NCM",
         "path": "/var/www/html",
         "permissions": "elradfmw"
     },
     {
-        "username": "anchu",
-        "password": "HLZ8RVFu",
+        "username": "user2",
+        "password": "Awew%$23er$%rs",
         "path": "/var/www/html",
         "permissions": "elradfmw"
     }
